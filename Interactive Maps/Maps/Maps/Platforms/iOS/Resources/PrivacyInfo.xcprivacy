@@ -36,6 +36,12 @@ More information: https://aka.ms/maui-privacy-manifest
                 <string>E174.1</string>
             </array>
         </dict>
+      <dict>
+        <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+        <string>Can we use your location at all times?</string>
+        <key>NSLocationWhenInUseUsageDescription</key>
+        <string>Can we use your location when your app is being used?</string>
+      </dict>
         <!--
             The entry below is only needed when you're using the Preferences API in your app.
         <dict>
